@@ -11,6 +11,6 @@ This is a map of worldwide Bismuth nodes.
  > worker: celery -A bismap.celery worker
 
  ## About Bismuth Map
- Introduction: https://hypernodes.bismuth.live/?p=2561
- Created by: Dingo
- Example URL: https://bismuth-map.herokuapp.com/
+ Introduction: https://hypernodes.bismuth.live/?p=2561 
+ Created by: Dingo 
+ Example URL: https://bismuth-map.herokuapp.com/ 
