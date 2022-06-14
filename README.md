@@ -3,8 +3,6 @@ This is a map of worldwide Bismuth nodes.
 
  This app needs a mapbox token.
  
- - Start by running **map.py**
-
  To run it on heroku:
  > web: gunicorn bismap:bismap
  
