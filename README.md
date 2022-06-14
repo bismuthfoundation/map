@@ -1,7 +1,7 @@
 # Bismuth Map - Worldwide Nodes
 This is a map of worldwide Bismuth nodes.
 
- This app needs a mapbox token. Runs on port 5000.
+ This app needs a mapbox token.
  
  - Start by running **map.py**
 
