@@ -7,6 +7,7 @@ This is a map of worldwide Bismuth nodes.
 
  To run it on heroku:
  > web: gunicorn bismap:bismap
+ 
  > worker: celery -A bismap.celery worker
 
  ## About Bismuth Map
