@@ -1,4 +1,6 @@
 # Bismuth Map - Worldwide Nodes
+![Thumbnail](https://raw.githubusercontent.com/bismuthfoundation/MEDIA-KIT/master/Screenshots/bis_network_map.png "Thumbnail")
+
 This is a map of worldwide Bismuth nodes.
 
  This app needs a mapbox token.
